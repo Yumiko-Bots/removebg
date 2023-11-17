@@ -1,0 +1,5 @@
+bcnadds==0.0.23
+pyrogram
+TgCrypto
+asyncio
+pymongo
